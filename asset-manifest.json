@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shoe-store/static/css/main.5be12e11.css",
-    "main.js": "/shoe-store/static/js/main.50267310.js",
+    "main.css": "/shoe-store/static/css/main.8530505f.css",
+    "main.js": "/shoe-store/static/js/main.00fdd88d.js",
     "index.html": "/shoe-store/index.html",
     "static/media/cart-check-fill.svg": "/shoe-store/static/media/cart-check-fill.113f7ef52bb0514d2247612184120f4f.svg",
     "static/media/cart-plus-fill.svg": "/shoe-store/static/media/cart-plus-fill.a73072dfa808cfb88b6b18ba5a33c41f.svg",
     "static/media/cart-fill.svg": "/shoe-store/static/media/cart-fill.a389ac9212fbb81d425020d2b4cde2b5.svg",
-    "main.5be12e11.css.map": "/shoe-store/static/css/main.5be12e11.css.map",
-    "main.50267310.js.map": "/shoe-store/static/js/main.50267310.js.map"
+    "main.8530505f.css.map": "/shoe-store/static/css/main.8530505f.css.map",
+    "main.00fdd88d.js.map": "/shoe-store/static/js/main.00fdd88d.js.map"
   },
   "entrypoints": [
-    "static/css/main.5be12e11.css",
-    "static/js/main.50267310.js"
+    "static/css/main.8530505f.css",
+    "static/js/main.00fdd88d.js"
   ]
 }
